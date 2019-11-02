@@ -4,4 +4,4 @@ Para executar o script feito para esse projeto é nescessario ter python instala
 	ProjetoGYMPASS.py
 	teste gympass.txt
 
-
+E então executar o ProjetoGYMPASS.py
