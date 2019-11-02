@@ -1,0 +1,7 @@
+Considerações:
+Conforme o enunciado resalta a prova é encerrada quando o primeiro piloto finaliza a quarta volta.
+Sendo assim o calculo de colocação dos demais pilotos foi realizado atraves da determinanção de suas posições,
+no instante em que o primeiro piloto completa a quarta volta.
+Para tanto foi nescessario assumir que a velocidade dos competidores na ultima volta era constante e igual a sua 
+velocidade média.
+Tambem foi assumido que "m/s" é a unidade da velocidade média fornecida.
